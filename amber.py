@@ -17,7 +17,7 @@ def talk(text):
     engine.say(text)
     engine.runAndWait()
 
-talk("Hey there! I'm Zeppeli. Your very own virtual assistant. How may I help you?")
+talk("Hey there! I'm Amber. Your very own virtual assistant. How may I help you?")
 
 def take_cmd():
     try:
